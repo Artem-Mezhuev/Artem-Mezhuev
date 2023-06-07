@@ -6,7 +6,7 @@
 
 
 ### 👨‍💻 About me:
-
+I am a testing engineer specializing in testing and quality assurance software. My main focus is development and execution of test scenarios, analysis of results and detection of defects. I have a wide technical arsenal and constantly follow the latest trends in the industry. My goal is to ensure that the software products work perfectly and meet the expectations of users.
 
 
 - 📫 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@artemmezhuev-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artem-mezhuev/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:9228479@gmail.com)
@@ -16,7 +16,7 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
+    <a href="https://www.linkedin.com/in/artem-mezhuev/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/artem_m8188" target="_blank">
