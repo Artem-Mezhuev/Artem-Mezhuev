@@ -1,8 +1,9 @@
 # Hi all! My name is Artem.
 
-![giphy](https://github.com/Artem-Mezhuev/Artem-Mezhuev/assets/116815884/ee54ba41-fc0f-425f-bc6a-2bf717e05ffc)
 
----
+
+---![giphy](https://github.com/Artem-Mezhuev/Artem-Mezhuev/assets/116815884/c04ecef8-0f92-459e-adf4-476781b5a264)
+
 
 ### 👨‍💻 About me:
 
