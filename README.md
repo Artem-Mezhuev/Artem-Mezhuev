@@ -6,7 +6,7 @@
 
 
 ### 👨‍💻 About me:
-I am a testing engineer specializing in testing and quality assurance software. My main focus is development and execution of test scenarios, analysis of results and detection of defects. I have a wide technical arsenal and constantly follow the latest trends in the industry. My goal is to ensure that the software products work perfectly and meet the expectations of users.
+I am an aspiring testing engineer with great enthusiasm and determination to develop in the field of software quality assurance and testing. I have basic skills in developing and running test scenarios, analyzing test results and tracking defects. He is ready to actively learn and meet new challenges to expand his knowledge and skills. I strive for excellence in my work and fully immerse myself in the testing process to discover hidden flaws and help create high quality software. I am characterized by analytical thinking and attention to detail, which allows me to catch the most subtle problems and provide a high level of software quality. I want to work in a team where I can learn from experienced professionals and contribute to the process of software development. Ready to accept any tests to become a highly qualified testing engineer.
 
 
 - 📫 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@artemmezhuev-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artem-mezhuev/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:9228479@gmail.com)
