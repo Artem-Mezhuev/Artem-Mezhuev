@@ -1,5 +1,6 @@
 # Hi all! My name is Artem.
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/MFZkxyT9GYZ9izcy8A" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SWR3-running-run-walking-MFZkxyT9GYZ9izcy8A">via GIPHY</a></p>
+
+![giphy](https://github.com/Artem-Mezhuev/Artem-Mezhuev/assets/116815884/ee54ba41-fc0f-425f-bc6a-2bf717e05ffc)
 
 ---
 
