@@ -13,7 +13,7 @@ I am an aspiring testing engineer with great enthusiasm and desire to develop in
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 social media:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/artem-mezhuev/" target="_blank">
@@ -26,7 +26,7 @@ I am an aspiring testing engineer with great enthusiasm and desire to develop in
 
 ---
 
-### 📁 Тестовая документация:
+### 📁 Test documentation:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -39,7 +39,7 @@ I am an aspiring testing engineer with great enthusiasm and desire to develop in
 
 ---
 
-### 🛠 Тестирование веб-приложений:
+### 🛠 web application testing:
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -49,7 +49,7 @@ I am an aspiring testing engineer with great enthusiasm and desire to develop in
 
 ---
 
-### 📱 Тестирование мобильных приложений:
+### 📱 mobile app testing:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -62,7 +62,7 @@ I am an aspiring testing engineer with great enthusiasm and desire to develop in
 
 ---
 
-### 💾 Работа с данными:
+### 💾 work with data:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
@@ -80,14 +80,6 @@ I am an aspiring testing engineer with great enthusiasm and desire to develop in
   
 </div>
 
----
 
-<!-- ### 💻 Пройденные курсы:
 
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-
---- -->
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Artem-Mezhuev)
