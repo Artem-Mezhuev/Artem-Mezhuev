@@ -2,11 +2,11 @@
 
 
 
----![giphy](https://github.com/Artem-Mezhuev/Artem-Mezhuev/assets/116815884/c04ecef8-0f92-459e-adf4-476781b5a264)
+[giphy](https://github.com/Artem-Mezhuev/Artem-Mezhuev/assets/116815884/c04ecef8-0f92-459e-adf4-476781b5a264)
 
 
 ### 👨‍💻 About me:
-I am an aspiring testing engineer with great enthusiasm and desire to develop in the field of testing and quality assurance software. I have basic skills in developing and running test scenarios, analyzing results and tracking defects. Actively learning and taking new challenges to expand my knowledge and skills. My goal is to achieve excellence in the work and fully immerse myself in the testing process, identify latent defects and contribute to the creation of high quality software. My analytical thinking and attention to detail allow me to detect the most subtle problems and ensure a high level of software quality. I aspire to work in a team of experienced professionals to learn and contribute to the process of software development. Ready to accept any tests to become a highly qualified testing engineer.
+I am a test engineer with great enthusiasm and desire to develop in the field of testing and software quality assurance. I have the skills to design and run test scenarios, analyze results and track defects. Active training and taking on new challenges to enhance my knowledge and skills. My goal is to achieve excellence in the work and fully immerse myself in the testing process, to identify latent defects and contribute to the creation of high-quality software. My analytical thinking and attention to detail allow me to discover the most subtle problems and ensure a high level of software quality. I aspire to work in a team of experienced professionals to learn and contribute to the software development process. Ready to accept any tests to become a highly qualified testing engineer.
 
 
 - 📫 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@artemmezhuev-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artem-mezhuev/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:9228479@gmail.com)
@@ -19,7 +19,7 @@ I am an aspiring testing engineer with great enthusiasm and desire to develop in
     <a href="https://www.linkedin.com/in/artem-mezhuev/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/artem_m8188" target="_blank">
+  <a href="https://t.me/artem_m8188" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
