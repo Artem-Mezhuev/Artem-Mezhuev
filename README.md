@@ -21,7 +21,7 @@ I am a test engineer with great enthusiasm and desire to develop in the field of
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
    <a href="https://www.instagram.com/id_photolover/" target="_blank">
-    <img src="https://www.flaticon.com/free-icon/instagram_1384063?term=instagram&page=1&position=14&origin=search&related_id=1384063" width="40" height="40" alt="instagram" />
+    <img src="https://pin.it/7rDgdzl" width="40" height="40" alt="instagram" />
    </a>
   </div>
 
