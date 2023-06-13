@@ -53,8 +53,12 @@ I am a test engineer with great enthusiasm and desire to develop in the field of
 
 
 <div>
+ <a href="https://docs.google.com/spreadsheets/d/1asQAoL3QtA-L7rV9jUzHxziqQ_xy2fxgG18jOetFdvY/edit#gid=0" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+ </a>
+ <a href="https://docs.google.com/spreadsheets/d/1asQAoL3QtA-L7rV9jUzHxziqQ_xy2fxgG18jOetFdvY/edit#gid=1705126283" target=_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+ </a>
 </div>
 
 
