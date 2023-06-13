@@ -10,7 +10,7 @@
 I am a test engineer with great enthusiasm and desire to develop in the field of testing and software quality assurance. I have the skills to design and run test scenarios, analyze results and track defects. Active training and taking on new challenges to enhance my knowledge and skills. My goal is to achieve excellence in the work and fully immerse myself in the testing process, to identify latent defects and contribute to the creation of high-quality software. My analytical thinking and attention to detail allow me to discover the most subtle problems and ensure a high level of software quality. I aspire to work in a team of experienced professionals to learn and contribute to the software development process. Ready to accept any tests to become a highly qualified testing engineer.
 
 
- [![LinkedIn Badge](https://img.shields.io/badge/-@artemmezhuev-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artem-mezhuev/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:9228479@gmail.com) [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/id_photolover/)
+ [![LinkedIn Badge](https://img.shields.io/badge/-@artemmezhuev-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artem-mezhuev/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:9228479@gmail.com) 
 
 
   <div id="badges">
@@ -21,7 +21,7 @@ I am a test engineer with great enthusiasm and desire to develop in the field of
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
    <a href="https://www.instagram.com/id_photolover/" target="_blank">
-    <img src="https://www.flaticon.com/free-icon/instagram_3955024?related_id=3955024" width="40" height="40" alt="instagram" />
+    <img src="https://www.flaticon.com/free-icon/instagram_3955024?term=instagram&page=1&position=1&origin=search&related_id=3955024" width="40" height="40" alt="instagram" />
    </a>
   </div>
 
