@@ -22,6 +22,7 @@ I am a test engineer with great enthusiasm and desire to develop in the field of
     </a>
   </div>
 
+### I can work with:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
