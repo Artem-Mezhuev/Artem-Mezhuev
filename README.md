@@ -14,7 +14,7 @@ I am a test engineer with great enthusiasm and desire to develop in the field of
 <li> 😌 Finished <a href="https://drive.google.com/file/d/1SRC5UYnF9P3szIQyaL3CvYMW8uG6a3j0/view?usp=sharing">functional software testing course</a> </li>
 <li> 🐍 Learning SQL in my free time</li>
 <li>📙 Check out my <a href="">resume</a></li>
-<li>🏃🏻‍♀️ Random fact about me: I love photography </li>
+<li> Random fact about me: I love photography </li>
 </ul>
 
  [![LinkedIn Badge](https://img.shields.io/badge/-@artemmezhuev-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artem-mezhuev/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:9228479@gmail.com) 
