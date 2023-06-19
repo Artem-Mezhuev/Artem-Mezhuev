@@ -8,7 +8,14 @@
 
 ### 👨‍💻 About me:
 I am a test engineer with great enthusiasm and desire to develop in the field of testing and software quality assurance. I have the skills to design and run test scenarios, analyze results and track defects. Active training and taking on new challenges to enhance my knowledge and skills. My goal is to achieve excellence in the work and fully immerse myself in the testing process, to identify latent defects and contribute to the creation of high-quality software. My analytical thinking and attention to detail allow me to discover the most subtle problems and ensure a high level of software quality. I aspire to work in a team of experienced professionals to learn and contribute to the software development process. Ready to accept any tests to become a highly qualified testing engineer.
-
+<h2>A Few Quick Facts</h2>
+<ul>
+<li> 🌱 I’m currently open to job opportunities as QA Engineer </li>
+<li> 😌 Finished <a href="https://drive.google.com/file/d/1SRC5UYnF9P3szIQyaL3CvYMW8uG6a3j0/view?usp=sharing">functional software testing course</a> </li>
+<li> 🐍 Learning SQL in my free time</li>
+<li>📙 Check out my <a href="">resume</a></li>
+<li>🏃🏻‍♀️ Random fact about me: I love photography </li>
+</ul>
 
  [![LinkedIn Badge](https://img.shields.io/badge/-@artemmezhuev-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artem-mezhuev/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:9228479@gmail.com) 
 
